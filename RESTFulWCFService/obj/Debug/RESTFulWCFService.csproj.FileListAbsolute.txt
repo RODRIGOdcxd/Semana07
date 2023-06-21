@@ -1,0 +1,7 @@
+D:\Servicio WEB\Semana07\RESTFulWCFService\bin\RESTFulWCFService.dll.config
+D:\Servicio WEB\Semana07\RESTFulWCFService\bin\RESTFulWCFService.dll
+D:\Servicio WEB\Semana07\RESTFulWCFService\bin\RESTFulWCFService.pdb
+D:\Servicio WEB\Semana07\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.AssemblyReference.cache
+D:\Servicio WEB\Semana07\RESTFulWCFService\obj\Debug\RESTFulWCFService.csproj.CoreCompileInputs.cache
+D:\Servicio WEB\Semana07\RESTFulWCFService\obj\Debug\RESTFulWCFService.dll
+D:\Servicio WEB\Semana07\RESTFulWCFService\obj\Debug\RESTFulWCFService.pdb
